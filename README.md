@@ -10,4 +10,4 @@ Simple responsive single page website using html, css, javascript and media-quer
   
 ## Live Link
 
-Hey, You can Check Out The Page Live <a href="https://mujahidbcs92.github.io/ifza-intrvlp">from Here</a>
+Hey, You can Check Out The Page Live <a href="https://mujahidbcs92.github.io/ifza-intrvlp" target="_blank">from Here</a>
